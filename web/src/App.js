@@ -3,8 +3,8 @@ import './styles/reset.css';
 import { useState} from 'react';
 
 import {makeRequest} from './api/api'
-import { SideMenu } from './components/SideMenu/SideMenu';
-import { ChatMessage } from './components/ChatMessage/ChatMessage';
+import { SideMenu } from './components/SideMenu/SideMenu'
+import { ChatMessage } from './components/ChatMessage/ChatMessage'
 
 function App() {
 

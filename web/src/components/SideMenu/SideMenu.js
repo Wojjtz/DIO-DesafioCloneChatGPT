@@ -1,5 +1,5 @@
-import React from "react";
-import './SideMenu.css';
+import React from 'react'
+import './SideMenu.css'
 
 export const SideMenu = () => {
     return (
